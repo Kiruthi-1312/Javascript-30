@@ -1,0 +1,13 @@
+# JavaScript 30 - A 30 day Vanilla JavacSript challenge
+
+* This repository is for tracking my **progress** in JavaScript 30 Day Challenge.
+
+* You can also join this awesome challenge  [here](https://javascript30.com/) created by [Wes Bos](https://github.com/wesbos).
+
+
+## Day 1 
+
+ * Learnt about Javascript event keycodes at keycode.info and event listeners.Also learnt about __Transtitionend__ Event.
+ 
+ * Live preview : [Click here](https://kiruthi-1312.github.io/Javascript-30/drumkit/)
+

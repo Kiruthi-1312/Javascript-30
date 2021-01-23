@@ -10,4 +10,11 @@
  * Learnt about Javascript event keycodes at keycode.info and event listeners.Also learnt about __Transtitionend__ Event.
  
  * Live preview : [Click here](https://kiruthi-1312.github.io/Javascript-30/drumkit/)
+ 
+ 
+ ## Day 2
+ 
+ * Learnt about JavaScript __Date objects__ and __Set Interval__ Function.
+ 
+ * Live Preview : [Click here](https://kiruthi-1312.github.io/Javascript-30/clock/)
 

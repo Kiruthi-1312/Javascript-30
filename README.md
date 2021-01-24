@@ -18,3 +18,9 @@
  
  * Live Preview : [Click here](https://kiruthi-1312.github.io/Javascript-30/clock/)
 
+
+## Day 3
+
+* Learnt about updating __CSS variables__ using Javascript.
+
+* Live Preview :  [Click here](https://kiruthi-1312.github.io/Javascript-30/css_variables/)

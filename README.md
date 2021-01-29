@@ -24,3 +24,15 @@
 * Learnt about updating __CSS variables__ using Javascript.
 
 * Live Preview :  [Click here](https://kiruthi-1312.github.io/Javascript-30/css_variables/)
+
+## Day 4
+
+* Learnt about some important Array __methods__ in javascript.
+
+* Live preview :  [Click here](https://kiruthi-1312.github.io/Javascript-30/Array/)
+
+## Day 5
+
+* Learnt about changing the style elements using Javascript.
+
+* Live preview :  [Click here](https://kiruthi-1312.github.io/Javascript-30/Flexbox/)

@@ -37,4 +37,9 @@
 
 * Live preview :  [Click here](https://kiruthi-1312.github.io/Javascript-30/Flexbox/)
 
+## Day 6 
+
+* Learnt about the API __fetch()__ method and some array methods.
+
+* Live preview : [Click here](https://kiruthi-1312.github.io/Javascript-30/Ajax/)
 

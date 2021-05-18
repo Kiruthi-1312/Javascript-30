@@ -53,5 +53,5 @@
 
 * Learnt more about Canvas in HTML5.
 
-* Live preview : [Click here](https://kiruthi-1312.github.io/Javascript-30/HTML5%Canvas/)
+* Live preview : [Click here](https://kiruthi-1312.github.io/Javascript-30/HTML5%20Canvas/)
 

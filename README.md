@@ -49,4 +49,9 @@
 
 * Live preview : [Click here](https://kiruthi-1312.github.io/Javascript-30/Array%202/)
 
+## Day 8 
+
+* Learnt more about Canvas in HTML5.
+
+* Live preview : [Click here](https://kiruthi-1312.github.io/Javascript-30/HTML5%Canvas/)
 
